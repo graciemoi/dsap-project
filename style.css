@@ -1,0 +1,12 @@
+body {
+	background-color: beige;
+	color: brown;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 32px 12px;
+	border-bottom: 1px solid goldenrod;
+}
